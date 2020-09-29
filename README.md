@@ -31,4 +31,4 @@ alongisde the implementation of the project! (in English)
 ----------------------------------------------------------------------------------------------------
 
 Thank you, 
-:copyright: Andrew Pappas
+:copyright: Andrew Pappas.
